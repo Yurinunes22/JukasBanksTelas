@@ -1,0 +1,17 @@
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.csproj.AssemblyReference.cache
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.Form1.resources
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.csproj.GenerateResource.cache
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.AssemblyInfoInputs.cache
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.AssemblyInfo.cs
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.csproj.CoreCompileInputs.cache
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\bin\Debug\net6.0-windows\PrjJukasTelas.exe
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\bin\Debug\net6.0-windows\PrjJukasTelas.deps.json
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\bin\Debug\net6.0-windows\PrjJukasTelas.runtimeconfig.json
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\bin\Debug\net6.0-windows\PrjJukasTelas.dll
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\bin\Debug\net6.0-windows\PrjJukasTelas.pdb
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.dll
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\refint\PrjJukasTelas.dll
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.pdb
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\PrjJukasTelas.genruntimeconfig.cache
+C:\Users\yuri.njesus\source\repos\Yuri\SlnJukasTelas\PrjJukasTelas\obj\Debug\net6.0-windows\ref\PrjJukasTelas.dll
